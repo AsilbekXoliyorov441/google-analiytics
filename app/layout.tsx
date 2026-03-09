@@ -18,9 +18,11 @@ export const metadata: Metadata = {
   description: "Frontend developer portfolio",
   keywords: ["frontend", "react", "nextjs"],
   verification: {
-    google: "abc123xyz",
+    google: "tkbbC9v_7QEDHOVWG3kBuNUFV-wTGC2ekZYDIXwzhXI",
   },
 };
+
+
 
 export default function RootLayout({
   children,
